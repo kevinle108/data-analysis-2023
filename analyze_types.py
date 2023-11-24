@@ -1,6 +1,6 @@
 import pandas as pd
 import json
-import tabulate
+import tabulate 
 
 def analyze():
     # get json file
@@ -11,12 +11,29 @@ def analyze():
     # print(normalized)
     df = pd.DataFrame.from_dict(normalized)
     # print(df.to_markdown())
+
+    gen_results = []
     for gen_num in range(1,10):
         print('GENERATION', gen_num)
         filtered_gen = df.where(df['generation'] == gen_num)
+        most_popular_first_type = filtered_gen['type1'].value_counts().index[0]
+        most_popular_first_type_num = filtered_gen['type1'].value_counts()[0]
+        most_popular_second_type = filtered_gen['type2'].value_counts().index[1]
+        most_popular_second_type_num = filtered_gen['type2'].value_counts()[1]
+
+        result_model = {
+            'generation': gen_num,
+            'first_type': most_popular_first_type,
+            'first_type_count': most_popular_first_type_num,
+            'second_type': most_popular_second_type,
+            'second_type_count': most_popular_second_type_num            
+        }
+        gen_results.append(result_model)
         print('  Type 1:', filtered_gen['type1'].value_counts().index[0])
         print('  Type 2:', filtered_gen['type2'].value_counts().index[1])
         print()
+    df_gen_counts = pd.DataFrame.from_dict(gen_results)
+    print(df_gen_counts.to_markdown())
 
 def count_number_of_types(pokemon_list):
     pokemon_1_type = []
