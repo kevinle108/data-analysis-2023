@@ -17,13 +17,13 @@ Please make sure you have VSCode, Python3, Jupyter Notebook installed on your co
 - Open up the project in VSCode, and open "pokemon_analysis.ipynb".
 - Click "Run all" to run all cells
 <div align="center">
-  <img width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/080f0063-4f6d-4754-9a57-75916b89468b">  
+  <img width="600" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/080f0063-4f6d-4754-9a57-75916b89468b">  
 </div>
 
 ### Disclaimer: 
 In the Data Fetching portion of this project, we will fetch data for every single pokemon there is, which means there will be over a thousand api calls and might take over 5-10 minutes depending on your network connection
 <div align="center">
-  <img width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/36c3b679-9976-48d8-a9bf-db09f77710dc">
+  <img width="600" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/29234cf1-a125-46d8-b8e0-4e21bfb55633">
 </div>
 
 - If you need to skip the Data Fetching part due to connectivity issues, jump to Data Clean-Up section and run from there. (If you restarted the kernel and jumped Data Clean-up, make sure to rerun cell 1 to get all the imports statements)
@@ -56,6 +56,9 @@ In the Data Fetching portion of this project, we will fetch data for every singl
   <img height="400" width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/ec35d455-4928-4a43-a91b-6969e4937c67">
   <img height="400" width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/3a9f73ac-19d8-4cb3-805c-b42a09527eef">
   <img height="400" width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/5381efe2-8f67-473d-af6a-5ca881bcd66d">  
+</div>
+<div align="center">
+  <img width="800" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/bde450d1-1bf3-4931-910c-d03ac518d4fe">
 </div>
 
 - Utilize a virtual environment and include instructions in your README on how the user should set one up
