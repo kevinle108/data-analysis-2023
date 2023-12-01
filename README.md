@@ -16,6 +16,8 @@ Please make sure you have VSCode, Python3, Jupyter Notebook installed on your co
 - Then install the project dependencies by running `pip install -r requirements.txt`
 - Open up the project in VSCode, and open "pokemon_analysis.ipynb".
 - Click "Run all" to run all cells
+<img width="365" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/080f0063-4f6d-4754-9a57-75916b89468b">
+
 ### Disclaimer: 
 In the Data Fetching portion of this project, we will fetch data for every single pokemon there is, which means there will be over a thousand api calls and might take over 5-10 minutes depending on your network connection
 
