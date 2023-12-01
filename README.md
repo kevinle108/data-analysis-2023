@@ -16,29 +16,47 @@ Please make sure you have VSCode, Python3, Jupyter Notebook installed on your co
 - Then install the project dependencies by running `pip install -r requirements.txt`
 - Open up the project in VSCode, and open "pokemon_analysis.ipynb".
 - Click "Run all" to run all cells
-<img width="365" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/080f0063-4f6d-4754-9a57-75916b89468b">
+<div align="center">
+  <img width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/080f0063-4f6d-4754-9a57-75916b89468b">  
+</div>
 
 ### Disclaimer: 
 In the Data Fetching portion of this project, we will fetch data for every single pokemon there is, which means there will be over a thousand api calls and might take over 5-10 minutes depending on your network connection
-
-<img width="339" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/36c3b679-9976-48d8-a9bf-db09f77710dc">
+<div align="center">
+  <img width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/36c3b679-9976-48d8-a9bf-db09f77710dc">
+</div>
 
 - If you need to skip the Data Fetching part due to connectivity issues, jump to Data Clean-Up section and run from there. (If you restarted the kernel and jumped Data Clean-up, make sure to rerun cell 1 to get all the imports statements)
     - Future improvements of this project will utilize the `data/Generation_X` jsons as an offline data fetching alternative 
 
+<div align="center">
+  
+</div>
+
+
 ## Features
 - Read TWO data sets in with an API (or use two different APIs that have data you can combine to answer new questions)
   - pulled api datasets for generations and individual species (many, many api requests to gather all the necessary data)
-  - <img width="542" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/4b9567a2-3ab9-4e48-ac99-e7bfd197d195">
-  - <img width="675" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/35392ed3-f254-4bd7-9b92-798c82839b02">
+<div align="center">
+  <img width="600" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/4b9567a2-3ab9-4e48-ac99-e7bfd197d195">
+</div>
+<div align="center">
+  <img width="600" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/35392ed3-f254-4bd7-9b92-798c82839b02">
+</div>
 - Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
-  - <img width="563" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/dafc6051-8159-48f0-ae46-992a59fdbcbe">
-  - <img width="530" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/b0c6885f-8b33-4c65-ab7b-9b424e64fb4e">
+<div align="center">
+  <img width="600" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/dafc6051-8159-48f0-ae46-992a59fdbcbe">
+</div>
+<div align="center">
+  <img width="600" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/b0c6885f-8b33-4c65-ab7b-9b424e64fb4e">
+</div align="center">
 - Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.
-  - <img width="509" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/37b99b07-65ab-48f0-a529-c7b405494240">
-  - <img width="422" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/ec35d455-4928-4a43-a91b-6969e4937c67">
-  - <img width="292" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/3a9f73ac-19d8-4cb3-805c-b42a09527eef">
-  - <img width="424" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/5381efe2-8f67-473d-af6a-5ca881bcd66d">
+<p align="center">
+  <img height="400" width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/37b99b07-65ab-48f0-a529-c7b405494240">
+  <img height="400" width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/ec35d455-4928-4a43-a91b-6969e4937c67">
+  <img height="400" width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/3a9f73ac-19d8-4cb3-805c-b42a09527eef">
+  <img height="400" width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/5381efe2-8f67-473d-af6a-5ca881bcd66d">  
+</p>
 - Utilize a virtual environment and include instructions in your README on how the user should set one up
   - See Set-up Instructions section     
 - Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit.
@@ -46,4 +64,4 @@ In the Data Fetching portion of this project, we will fetch data for every singl
 
 ## Special Thanks
 - Thank you to Tre, Von, and the entire Code:You organization for providing a wonderful community to learn Python and Data Analysis!
-- Thank you to PokeApi for providing such an extensive and free api 
+- Thank you to PokeApi for providing such an extensive and free api - Learn more about it here: https://pokeapi.co/ 
