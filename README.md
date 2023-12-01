@@ -27,7 +27,7 @@ In the Data Fetching portion of this project, we will fetch data for every singl
     - Future improvements of this project will utilize the `data/Generation_X` jsons as an offline data fetching alternative 
 
 ## Features
-- Read TWO data sets in with an API (or use two different APIs that have data you can combine to answer new questions)
+- Read TWO data sets in with an API (or use two different APIs that have data you can combine to answer new questions) - pulled api datasets for generations and individual species 
   - <img width="542" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/4b9567a2-3ab9-4e48-ac99-e7bfd197d195">
   - <img width="675" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/35392ed3-f254-4bd7-9b92-798c82839b02">
 - Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
