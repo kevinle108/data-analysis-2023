@@ -31,7 +31,8 @@ In the Data Fetching portion of this project, we will fetch data for every singl
   - <img width="542" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/4b9567a2-3ab9-4e48-ac99-e7bfd197d195">
   - <img width="675" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/35392ed3-f254-4bd7-9b92-798c82839b02">
 - Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
-  - <img width="563" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/dafc6051-8159-48f0-ae46-992a59fdbcbe"> 
+  - <img width="563" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/dafc6051-8159-48f0-ae46-992a59fdbcbe">
+  - <img width="530" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/b0c6885f-8b33-4c65-ab7b-9b424e64fb4e">
 - Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.
   - <img width="509" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/37b99b07-65ab-48f0-a529-c7b405494240">
   - <img width="422" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/ec35d455-4928-4a43-a91b-6969e4937c67">
