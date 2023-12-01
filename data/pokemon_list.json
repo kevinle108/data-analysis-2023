@@ -9,6 +9,73 @@
         ]
     },
     {
+        "name": "ivysaur",
+        "id": 2,
+        "generation": 1,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "name": "venusaur",
+        "id": 3,
+        "generation": 1,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "name": "charmander",
+        "id": 4,
+        "generation": 1,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "name": "charmeleon",
+        "id": 5,
+        "generation": 1,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "name": "charizard",
+        "id": 6,
+        "generation": 1,
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    {
+        "name": "squirtle",
+        "id": 7,
+        "generation": 1,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "name": "wartortle",
+        "id": 8,
+        "generation": 1,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "name": "blastoise",
+        "id": 9,
+        "generation": 1,
+        "types": [
+            "water"
+        ]
+    },
+    {
         "name": "caterpie",
         "id": 10,
         "generation": 1,
@@ -17,175 +84,11 @@
         ]
     },
     {
-        "name": "voltorb",
-        "id": 100,
-        "generation": 1,
-        "types": [
-            "electric"
-        ]
-    },
-    {
-        "name": "electrode",
-        "id": 101,
-        "generation": 1,
-        "types": [
-            "electric"
-        ]
-    },
-    {
-        "name": "exeggcute",
-        "id": 102,
-        "generation": 1,
-        "types": [
-            "grass",
-            "psychic"
-        ]
-    },
-    {
-        "name": "exeggutor",
-        "id": 103,
-        "generation": 1,
-        "types": [
-            "grass",
-            "psychic"
-        ]
-    },
-    {
-        "name": "cubone",
-        "id": 104,
-        "generation": 1,
-        "types": [
-            "ground"
-        ]
-    },
-    {
-        "name": "marowak",
-        "id": 105,
-        "generation": 1,
-        "types": [
-            "ground"
-        ]
-    },
-    {
-        "name": "hitmonlee",
-        "id": 106,
-        "generation": 1,
-        "types": [
-            "fighting"
-        ]
-    },
-    {
-        "name": "hitmonchan",
-        "id": 107,
-        "generation": 1,
-        "types": [
-            "fighting"
-        ]
-    },
-    {
-        "name": "lickitung",
-        "id": 108,
-        "generation": 1,
-        "types": [
-            "normal"
-        ]
-    },
-    {
-        "name": "koffing",
-        "id": 109,
-        "generation": 1,
-        "types": [
-            "poison"
-        ]
-    },
-    {
         "name": "metapod",
         "id": 11,
         "generation": 1,
         "types": [
             "bug"
-        ]
-    },
-    {
-        "name": "weezing",
-        "id": 110,
-        "generation": 1,
-        "types": [
-            "poison"
-        ]
-    },
-    {
-        "name": "rhyhorn",
-        "id": 111,
-        "generation": 1,
-        "types": [
-            "ground",
-            "rock"
-        ]
-    },
-    {
-        "name": "rhydon",
-        "id": 112,
-        "generation": 1,
-        "types": [
-            "ground",
-            "rock"
-        ]
-    },
-    {
-        "name": "chansey",
-        "id": 113,
-        "generation": 1,
-        "types": [
-            "normal"
-        ]
-    },
-    {
-        "name": "tangela",
-        "id": 114,
-        "generation": 1,
-        "types": [
-            "grass"
-        ]
-    },
-    {
-        "name": "kangaskhan",
-        "id": 115,
-        "generation": 1,
-        "types": [
-            "normal"
-        ]
-    },
-    {
-        "name": "horsea",
-        "id": 116,
-        "generation": 1,
-        "types": [
-            "water"
-        ]
-    },
-    {
-        "name": "seadra",
-        "id": 117,
-        "generation": 1,
-        "types": [
-            "water"
-        ]
-    },
-    {
-        "name": "goldeen",
-        "id": 118,
-        "generation": 1,
-        "types": [
-            "water"
-        ]
-    },
-    {
-        "name": "seaking",
-        "id": 119,
-        "generation": 1,
-        "types": [
-            "water"
         ]
     },
     {
@@ -198,180 +101,12 @@
         ]
     },
     {
-        "name": "staryu",
-        "id": 120,
-        "generation": 1,
-        "types": [
-            "water"
-        ]
-    },
-    {
-        "name": "starmie",
-        "id": 121,
-        "generation": 1,
-        "types": [
-            "water",
-            "psychic"
-        ]
-    },
-    {
-        "name": "mr-mime",
-        "id": 122,
-        "generation": 1,
-        "types": [
-            "psychic",
-            "fairy"
-        ]
-    },
-    {
-        "name": "scyther",
-        "id": 123,
-        "generation": 1,
-        "types": [
-            "bug",
-            "flying"
-        ]
-    },
-    {
-        "name": "jynx",
-        "id": 124,
-        "generation": 1,
-        "types": [
-            "ice",
-            "psychic"
-        ]
-    },
-    {
-        "name": "electabuzz",
-        "id": 125,
-        "generation": 1,
-        "types": [
-            "electric"
-        ]
-    },
-    {
-        "name": "magmar",
-        "id": 126,
-        "generation": 1,
-        "types": [
-            "fire"
-        ]
-    },
-    {
-        "name": "pinsir",
-        "id": 127,
-        "generation": 1,
-        "types": [
-            "bug"
-        ]
-    },
-    {
-        "name": "tauros",
-        "id": 128,
-        "generation": 1,
-        "types": [
-            "normal"
-        ]
-    },
-    {
-        "name": "magikarp",
-        "id": 129,
-        "generation": 1,
-        "types": [
-            "water"
-        ]
-    },
-    {
         "name": "weedle",
         "id": 13,
         "generation": 1,
         "types": [
             "bug",
             "poison"
-        ]
-    },
-    {
-        "name": "gyarados",
-        "id": 130,
-        "generation": 1,
-        "types": [
-            "water",
-            "flying"
-        ]
-    },
-    {
-        "name": "lapras",
-        "id": 131,
-        "generation": 1,
-        "types": [
-            "water",
-            "ice"
-        ]
-    },
-    {
-        "name": "ditto",
-        "id": 132,
-        "generation": 1,
-        "types": [
-            "normal"
-        ]
-    },
-    {
-        "name": "eevee",
-        "id": 133,
-        "generation": 1,
-        "types": [
-            "normal"
-        ]
-    },
-    {
-        "name": "vaporeon",
-        "id": 134,
-        "generation": 1,
-        "types": [
-            "water"
-        ]
-    },
-    {
-        "name": "jolteon",
-        "id": 135,
-        "generation": 1,
-        "types": [
-            "electric"
-        ]
-    },
-    {
-        "name": "flareon",
-        "id": 136,
-        "generation": 1,
-        "types": [
-            "fire"
-        ]
-    },
-    {
-        "name": "porygon",
-        "id": 137,
-        "generation": 1,
-        "types": [
-            "normal"
-        ]
-    },
-    {
-        "name": "omanyte",
-        "id": 138,
-        "generation": 1,
-        "types": [
-            "rock",
-            "water"
-        ]
-    },
-    {
-        "name": "omastar",
-        "id": 139,
-        "generation": 1,
-        "types": [
-            "rock",
-            "water"
         ]
     },
     {
@@ -384,115 +119,12 @@
         ]
     },
     {
-        "name": "kabuto",
-        "id": 140,
-        "generation": 1,
-        "types": [
-            "rock",
-            "water"
-        ]
-    },
-    {
-        "name": "kabutops",
-        "id": 141,
-        "generation": 1,
-        "types": [
-            "rock",
-            "water"
-        ]
-    },
-    {
-        "name": "aerodactyl",
-        "id": 142,
-        "generation": 1,
-        "types": [
-            "rock",
-            "flying"
-        ]
-    },
-    {
-        "name": "snorlax",
-        "id": 143,
-        "generation": 1,
-        "types": [
-            "normal"
-        ]
-    },
-    {
-        "name": "articuno",
-        "id": 144,
-        "generation": 1,
-        "types": [
-            "ice",
-            "flying"
-        ]
-    },
-    {
-        "name": "zapdos",
-        "id": 145,
-        "generation": 1,
-        "types": [
-            "electric",
-            "flying"
-        ]
-    },
-    {
-        "name": "moltres",
-        "id": 146,
-        "generation": 1,
-        "types": [
-            "fire",
-            "flying"
-        ]
-    },
-    {
-        "name": "dratini",
-        "id": 147,
-        "generation": 1,
-        "types": [
-            "dragon"
-        ]
-    },
-    {
-        "name": "dragonair",
-        "id": 148,
-        "generation": 1,
-        "types": [
-            "dragon"
-        ]
-    },
-    {
-        "name": "dragonite",
-        "id": 149,
-        "generation": 1,
-        "types": [
-            "dragon",
-            "flying"
-        ]
-    },
-    {
         "name": "beedrill",
         "id": 15,
         "generation": 1,
         "types": [
             "bug",
             "poison"
-        ]
-    },
-    {
-        "name": "mewtwo",
-        "id": 150,
-        "generation": 1,
-        "types": [
-            "psychic"
-        ]
-    },
-    {
-        "name": "mew",
-        "id": 151,
-        "generation": 1,
-        "types": [
-            "psychic"
         ]
     },
     {
@@ -528,15 +160,6 @@
         "generation": 1,
         "types": [
             "normal"
-        ]
-    },
-    {
-        "name": "ivysaur",
-        "id": 2,
-        "generation": 1,
-        "types": [
-            "grass",
-            "poison"
         ]
     },
     {
@@ -622,15 +245,6 @@
         ]
     },
     {
-        "name": "venusaur",
-        "id": 3,
-        "generation": 1,
-        "types": [
-            "grass",
-            "poison"
-        ]
-    },
-    {
         "name": "nidorina",
         "id": 30,
         "generation": 1,
@@ -711,14 +325,6 @@
         "types": [
             "normal",
             "fairy"
-        ]
-    },
-    {
-        "name": "charmander",
-        "id": 4,
-        "generation": 1,
-        "types": [
-            "fire"
         ]
     },
     {
@@ -812,14 +418,6 @@
         ]
     },
     {
-        "name": "charmeleon",
-        "id": 5,
-        "generation": 1,
-        "types": [
-            "fire"
-        ]
-    },
-    {
         "name": "diglett",
         "id": 50,
         "generation": 1,
@@ -897,15 +495,6 @@
         "generation": 1,
         "types": [
             "fire"
-        ]
-    },
-    {
-        "name": "charizard",
-        "id": 6,
-        "generation": 1,
-        "types": [
-            "fire",
-            "flying"
         ]
     },
     {
@@ -988,14 +577,6 @@
         "types": [
             "grass",
             "poison"
-        ]
-    },
-    {
-        "name": "squirtle",
-        "id": 7,
-        "generation": 1,
-        "types": [
-            "water"
         ]
     },
     {
@@ -1087,14 +668,6 @@
         ]
     },
     {
-        "name": "wartortle",
-        "id": 8,
-        "generation": 1,
-        "types": [
-            "water"
-        ]
-    },
-    {
         "name": "slowbro",
         "id": 80,
         "generation": 1,
@@ -1182,14 +755,6 @@
         ]
     },
     {
-        "name": "blastoise",
-        "id": 9,
-        "generation": 1,
-        "types": [
-            "water"
-        ]
-    },
-    {
         "name": "shellder",
         "id": 90,
         "generation": 1,
@@ -1272,6 +837,441 @@
         "generation": 1,
         "types": [
             "water"
+        ]
+    },
+    {
+        "name": "voltorb",
+        "id": 100,
+        "generation": 1,
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "name": "electrode",
+        "id": 101,
+        "generation": 1,
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "name": "exeggcute",
+        "id": 102,
+        "generation": 1,
+        "types": [
+            "grass",
+            "psychic"
+        ]
+    },
+    {
+        "name": "exeggutor",
+        "id": 103,
+        "generation": 1,
+        "types": [
+            "grass",
+            "psychic"
+        ]
+    },
+    {
+        "name": "cubone",
+        "id": 104,
+        "generation": 1,
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "name": "marowak",
+        "id": 105,
+        "generation": 1,
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "name": "hitmonlee",
+        "id": 106,
+        "generation": 1,
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "name": "hitmonchan",
+        "id": 107,
+        "generation": 1,
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "name": "lickitung",
+        "id": 108,
+        "generation": 1,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "name": "koffing",
+        "id": 109,
+        "generation": 1,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "name": "weezing",
+        "id": 110,
+        "generation": 1,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "name": "rhyhorn",
+        "id": 111,
+        "generation": 1,
+        "types": [
+            "ground",
+            "rock"
+        ]
+    },
+    {
+        "name": "rhydon",
+        "id": 112,
+        "generation": 1,
+        "types": [
+            "ground",
+            "rock"
+        ]
+    },
+    {
+        "name": "chansey",
+        "id": 113,
+        "generation": 1,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "name": "tangela",
+        "id": 114,
+        "generation": 1,
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "name": "kangaskhan",
+        "id": 115,
+        "generation": 1,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "name": "horsea",
+        "id": 116,
+        "generation": 1,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "name": "seadra",
+        "id": 117,
+        "generation": 1,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "name": "goldeen",
+        "id": 118,
+        "generation": 1,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "name": "seaking",
+        "id": 119,
+        "generation": 1,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "name": "staryu",
+        "id": 120,
+        "generation": 1,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "name": "starmie",
+        "id": 121,
+        "generation": 1,
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    {
+        "name": "mr-mime",
+        "id": 122,
+        "generation": 1,
+        "types": [
+            "psychic",
+            "fairy"
+        ]
+    },
+    {
+        "name": "scyther",
+        "id": 123,
+        "generation": 1,
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "name": "jynx",
+        "id": 124,
+        "generation": 1,
+        "types": [
+            "ice",
+            "psychic"
+        ]
+    },
+    {
+        "name": "electabuzz",
+        "id": 125,
+        "generation": 1,
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "name": "magmar",
+        "id": 126,
+        "generation": 1,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "name": "pinsir",
+        "id": 127,
+        "generation": 1,
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "name": "tauros",
+        "id": 128,
+        "generation": 1,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "name": "magikarp",
+        "id": 129,
+        "generation": 1,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "name": "gyarados",
+        "id": 130,
+        "generation": 1,
+        "types": [
+            "water",
+            "flying"
+        ]
+    },
+    {
+        "name": "lapras",
+        "id": 131,
+        "generation": 1,
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "name": "ditto",
+        "id": 132,
+        "generation": 1,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "name": "eevee",
+        "id": 133,
+        "generation": 1,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "name": "vaporeon",
+        "id": 134,
+        "generation": 1,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "name": "jolteon",
+        "id": 135,
+        "generation": 1,
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "name": "flareon",
+        "id": 136,
+        "generation": 1,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "name": "porygon",
+        "id": 137,
+        "generation": 1,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "name": "omanyte",
+        "id": 138,
+        "generation": 1,
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "name": "omastar",
+        "id": 139,
+        "generation": 1,
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "name": "kabuto",
+        "id": 140,
+        "generation": 1,
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "name": "kabutops",
+        "id": 141,
+        "generation": 1,
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "name": "aerodactyl",
+        "id": 142,
+        "generation": 1,
+        "types": [
+            "rock",
+            "flying"
+        ]
+    },
+    {
+        "name": "snorlax",
+        "id": 143,
+        "generation": 1,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "name": "articuno",
+        "id": 144,
+        "generation": 1,
+        "types": [
+            "ice",
+            "flying"
+        ]
+    },
+    {
+        "name": "zapdos",
+        "id": 145,
+        "generation": 1,
+        "types": [
+            "electric",
+            "flying"
+        ]
+    },
+    {
+        "name": "moltres",
+        "id": 146,
+        "generation": 1,
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    {
+        "name": "dratini",
+        "id": 147,
+        "generation": 1,
+        "types": [
+            "dragon"
+        ]
+    },
+    {
+        "name": "dragonair",
+        "id": 148,
+        "generation": 1,
+        "types": [
+            "dragon"
+        ]
+    },
+    {
+        "name": "dragonite",
+        "id": 149,
+        "generation": 1,
+        "types": [
+            "dragon",
+            "flying"
+        ]
+    },
+    {
+        "name": "mewtwo",
+        "id": 150,
+        "generation": 1,
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "name": "mew",
+        "id": 151,
+        "generation": 1,
+        "types": [
+            "psychic"
         ]
     },
     {
@@ -7689,167 +7689,6 @@
         ]
     },
     {
-        "name": "gholdengo",
-        "id": 1000,
-        "generation": 9,
-        "types": [
-            "steel",
-            "ghost"
-        ]
-    },
-    {
-        "name": "wo-chien",
-        "id": 1001,
-        "generation": 9,
-        "types": [
-            "dark",
-            "grass"
-        ]
-    },
-    {
-        "name": "chien-pao",
-        "id": 1002,
-        "generation": 9,
-        "types": [
-            "dark",
-            "ice"
-        ]
-    },
-    {
-        "name": "ting-lu",
-        "id": 1003,
-        "generation": 9,
-        "types": [
-            "dark",
-            "ground"
-        ]
-    },
-    {
-        "name": "chi-yu",
-        "id": 1004,
-        "generation": 9,
-        "types": [
-            "dark",
-            "fire"
-        ]
-    },
-    {
-        "name": "roaring-moon",
-        "id": 1005,
-        "generation": 9,
-        "types": [
-            "dragon",
-            "dark"
-        ]
-    },
-    {
-        "name": "iron-valiant",
-        "id": 1006,
-        "generation": 9,
-        "types": [
-            "fairy",
-            "fighting"
-        ]
-    },
-    {
-        "name": "koraidon",
-        "id": 1007,
-        "generation": 9,
-        "types": [
-            "fighting",
-            "dragon"
-        ]
-    },
-    {
-        "name": "miraidon",
-        "id": 1008,
-        "generation": 9,
-        "types": [
-            "electric",
-            "dragon"
-        ]
-    },
-    {
-        "name": "walking-wake",
-        "id": 1009,
-        "generation": 9,
-        "types": [
-            "water",
-            "dragon"
-        ]
-    },
-    {
-        "name": "iron-leaves",
-        "id": 1010,
-        "generation": 9,
-        "types": [
-            "grass",
-            "psychic"
-        ]
-    },
-    {
-        "name": "dipplin",
-        "id": 1011,
-        "generation": 9,
-        "types": [
-            "grass",
-            "dragon"
-        ]
-    },
-    {
-        "name": "poltchageist",
-        "id": 1012,
-        "generation": 9,
-        "types": [
-            "grass",
-            "ghost"
-        ]
-    },
-    {
-        "name": "sinistcha",
-        "id": 1013,
-        "generation": 9,
-        "types": [
-            "grass",
-            "ghost"
-        ]
-    },
-    {
-        "name": "okidogi",
-        "id": 1014,
-        "generation": 9,
-        "types": [
-            "poison",
-            "fighting"
-        ]
-    },
-    {
-        "name": "munkidori",
-        "id": 1015,
-        "generation": 9,
-        "types": [
-            "poison",
-            "psychic"
-        ]
-    },
-    {
-        "name": "fezandipiti",
-        "id": 1016,
-        "generation": 9,
-        "types": [
-            "poison",
-            "fairy"
-        ]
-    },
-    {
-        "name": "ogerpon",
-        "id": 1017,
-        "generation": 9,
-        "types": [
-            "grass"
-        ]
-    },
-    {
         "name": "sprigatito",
         "id": 906,
         "generation": 9,
@@ -8652,6 +8491,167 @@
         "generation": 9,
         "types": [
             "ghost"
+        ]
+    },
+    {
+        "name": "gholdengo",
+        "id": 1000,
+        "generation": 9,
+        "types": [
+            "steel",
+            "ghost"
+        ]
+    },
+    {
+        "name": "wo-chien",
+        "id": 1001,
+        "generation": 9,
+        "types": [
+            "dark",
+            "grass"
+        ]
+    },
+    {
+        "name": "chien-pao",
+        "id": 1002,
+        "generation": 9,
+        "types": [
+            "dark",
+            "ice"
+        ]
+    },
+    {
+        "name": "ting-lu",
+        "id": 1003,
+        "generation": 9,
+        "types": [
+            "dark",
+            "ground"
+        ]
+    },
+    {
+        "name": "chi-yu",
+        "id": 1004,
+        "generation": 9,
+        "types": [
+            "dark",
+            "fire"
+        ]
+    },
+    {
+        "name": "roaring-moon",
+        "id": 1005,
+        "generation": 9,
+        "types": [
+            "dragon",
+            "dark"
+        ]
+    },
+    {
+        "name": "iron-valiant",
+        "id": 1006,
+        "generation": 9,
+        "types": [
+            "fairy",
+            "fighting"
+        ]
+    },
+    {
+        "name": "koraidon",
+        "id": 1007,
+        "generation": 9,
+        "types": [
+            "fighting",
+            "dragon"
+        ]
+    },
+    {
+        "name": "miraidon",
+        "id": 1008,
+        "generation": 9,
+        "types": [
+            "electric",
+            "dragon"
+        ]
+    },
+    {
+        "name": "walking-wake",
+        "id": 1009,
+        "generation": 9,
+        "types": [
+            "water",
+            "dragon"
+        ]
+    },
+    {
+        "name": "iron-leaves",
+        "id": 1010,
+        "generation": 9,
+        "types": [
+            "grass",
+            "psychic"
+        ]
+    },
+    {
+        "name": "dipplin",
+        "id": 1011,
+        "generation": 9,
+        "types": [
+            "grass",
+            "dragon"
+        ]
+    },
+    {
+        "name": "poltchageist",
+        "id": 1012,
+        "generation": 9,
+        "types": [
+            "grass",
+            "ghost"
+        ]
+    },
+    {
+        "name": "sinistcha",
+        "id": 1013,
+        "generation": 9,
+        "types": [
+            "grass",
+            "ghost"
+        ]
+    },
+    {
+        "name": "okidogi",
+        "id": 1014,
+        "generation": 9,
+        "types": [
+            "poison",
+            "fighting"
+        ]
+    },
+    {
+        "name": "munkidori",
+        "id": 1015,
+        "generation": 9,
+        "types": [
+            "poison",
+            "psychic"
+        ]
+    },
+    {
+        "name": "fezandipiti",
+        "id": 1016,
+        "generation": 9,
+        "types": [
+            "poison",
+            "fairy"
+        ]
+    },
+    {
+        "name": "ogerpon",
+        "id": 1017,
+        "generation": 9,
+        "types": [
+            "grass"
         ]
     }
 ]
