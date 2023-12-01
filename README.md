@@ -1,4 +1,4 @@
-# Analysis of Mono-types and Dual-types by Pokemon Generations
+# Analysis of Pokemon Mono-types and Dual-types Generations
 
 ## Overview
 A Pokemon can have one or two types. A mono-type is a pokemon with only one type, while a dual-type is a pokemon with two types. This project explores the variance of mono vs dual types in each pokemon generation to answer the question:
