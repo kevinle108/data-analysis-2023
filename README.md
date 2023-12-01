@@ -51,12 +51,13 @@ In the Data Fetching portion of this project, we will fetch data for every singl
   <img width="600" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/b0c6885f-8b33-4c65-ab7b-9b424e64fb4e">
 </div align="center">
 - Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.
-<p align="center">
+<div align="center">
   <img height="400" width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/37b99b07-65ab-48f0-a529-c7b405494240">
   <img height="400" width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/ec35d455-4928-4a43-a91b-6969e4937c67">
   <img height="400" width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/3a9f73ac-19d8-4cb3-805c-b42a09527eef">
   <img height="400" width="400" alt="image" src="https://github.com/kevinle108/data-analysis-2023/assets/54592360/5381efe2-8f67-473d-af6a-5ca881bcd66d">  
-</p>
+</div>
+
 - Utilize a virtual environment and include instructions in your README on how the user should set one up
   - See Set-up Instructions section     
 - Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit.
